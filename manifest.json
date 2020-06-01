@@ -6,9 +6,8 @@
   "lang": "id-ID",
   "background_color": "#fff",
   "theme_color": "#1abc9c",
-  "description": "Paket Tour Belitung murah",
-  "scope": "/app/",
-    "icons": [{
+  "description": "Paket Tour Belitung murah, rental mobil belitung lepas kunci dan rental motor belitung",
+     "icons": [{
     "src": "https://1.bp.blogspot.com/-bnMiIT15ZIo/XrUvuXl2UjI/AAAAAAAAQQI/g_lZmtGZzIUe9FkVsoNfVojL2R6absbHwCK4BGAsYHg/s48/logo%2B48x48.png",
     "sizes": "48x48",
     "type": "image/png"
